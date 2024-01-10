@@ -1,0 +1,27 @@
+{ "urls": [{ "url": "clan://localhost/tvboxqq/饭太硬/api.json", "name": "饭太硬" },
+
+{ "url": "clan://localhost/tvboxqq/小米/api.json", "name": "小米" },
+
+{ "url": "clan://localhost/tvboxqq/肥猫/api.json", "name": "肥猫" },
+
+{ "url": "clan://localhost/tvboxqq/PG/api.json", "name": "PG" },
+
+{ "url": "clan://localhost/tvboxqq/香雅情XYQ/api.json", "name": "香雅情XYQ" },
+
+{ "url": "clan://localhost/tvboxqq/道长JS/api.json", "name": "道长JS" },
+
+{ "url": "clan://localhost/tvboxqq/菜妮丝/api.json", "name": "菜妮丝" },
+
+{ "url": "clan://localhost/tvboxqq/南风/api.json", "name": "南风" },
+
+{ "url": "clan://localhost/tvboxqq/骚零/api.json", "name": "骚零" },
+
+{ "url": "clan://localhost/tvboxqq/天天开心/api.json", "name": "天天开心" },
+
+{ "url": "clan://localhost/tvboxqq/荷城茶秀/api.json", "name": "荷城茶秀" },
+
+{ "url": "clan://localhost/tvboxqq/短剧频道/api.json", "name": "短剧频道" },
+
+{ "url": "clan://localhost/tvboxqq/少儿频道/api.json", "name": "少儿频道" },
+
+{ "url": "clan://localhost/tvboxqq/动漫频道/api.json", "name": "动漫频道" }]}
