@@ -109,3 +109,5 @@ http://182.150.48.83:8888/newlive/live/hls/55/live.m3u8
 http://182.150.48.83:8888/newlive/live/hls/56/live.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="其他",金鹰卡通
 http://182.150.48.83:8888/newlive/live/hls/57/live.m3u8
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="其他",金鹰卡通
+http://182.150.48.83:8888/newlive/live/hls/57/live.m3u8
