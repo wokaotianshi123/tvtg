@@ -1,0 +1,67 @@
+央视,#genre#
+CCTV-1 综合,https://itv.lat/live?token=240411&id=cctv1
+CCTV-2 财经,https://itv.lat/live?token=240411&id=cctv2
+CCTV-3 综艺,https://itv.lat/live?token=240411&id=cctv3
+CCTV-4 国际,https://itv.lat/live?token=240411&id=cctv4
+CCTV-5 体育,https://itv.lat/live?token=240411&id=cctv5
+CCTV-5+ 体育赛事,https://itv.lat/live?token=240411&id=cctv5p
+CCTV-6 电影,https://itv.lat/live?token=240411&id=cctv6
+CCTV-7 国防军事,https://itv.lat/live?token=240411&id=cctv7
+CCTV-8 电视剧,https://itv.lat/live?token=240411&id=cctv8
+CCTV-9 记录,https://itv.lat/live?token=240411&id=cctv9
+CCTV-10 科教,https://itv.lat/live?token=240411&id=cctv10
+CCTV-11 戏曲,https://itv.lat/live?token=240411&id=cctv11
+CCTV-12 社会与法,https://itv.lat/live?token=240411&id=cctv12
+CCTV-13 新闻,https://itv.lat/live?token=240411&id=cctv13
+CCTV-14 少儿,https://itv.lat/live?token=240411&id=cctv14
+CCTV-15 音乐,https://itv.lat/live?token=240411&id=cctv15
+CCTV-16 奥林匹克,https://itv.lat/live?token=240411&id=cctv16
+CCTV-16 奥林匹克4K,https://itv.lat/live?token=240411&id=cctv16-4k
+CCTV-17 农业农村,https://itv.lat/live?token=240411&id=cctv17
+CCTV-4K 超高清,https://itv.lat/live?token=240411&id=cctv4k
+CCTV-8K 超高清,https://itv.lat/live?token=240411&id=cctv8k
+CCTV兵器科技,https://itv.lat/live?token=240411&id=bqkj
+CCTV第一剧场,https://itv.lat/live?token=240411&id=dyjc
+CCTV怀旧剧场,https://itv.lat/live?token=240411&id=hjjc
+CCTV风云剧场,https://itv.lat/live?token=240411&id=fyjc
+CCTV风云音乐,https://itv.lat/live?token=240411&id=fyyy
+CCTV风云足球,https://itv.lat/live?token=240411&id=fyzq
+CCTV电视指南,https://itv.lat/live?token=240411&id=dszn
+CCTV女性时尚,https://itv.lat/live?token=240411&id=nxss
+CCTV央视文化精品,https://itv.lat/live?token=240411&id=whjp
+CCTV世界地理,https://itv.lat/live?token=240411&id=sjdl
+CCTV高尔夫网球,https://itv.lat/live?token=240411&id=gefwq
+CCTV央视台球,https://itv.lat/live?token=240411&id=ystq
+CCTV卫生健康,https://itv.lat/live?token=240411&id=wsjk
+CGTN英语,https://itv.lat/live?token=240411&id=cgtn
+CGTN纪录,https://itv.lat/live?token=240411&id=cgtnjl
+CGTN西语,https://itv.lat/live?token=240411&id=cgtne
+CGTN法语,https://itv.lat/live?token=240411&id=cgtnf
+CGTN阿语,https://itv.lat/live?token=240411&id=cgtna
+CGTN俄语,https://itv.lat/live?token=240411&id=cgtnr
+
+卫视,#genre#
+北京卫视,https://itv.lat/live?token=240411&id=bjws
+东方卫视,https://itv.lat/live?token=240411&id=dfws
+天津卫视,https://itv.lat/live?token=240411&id=tjws
+重庆卫视,https://itv.lat/live?token=240411&id=cqws
+黑龙江卫视,https://itv.lat/live?token=240411&id=hljws
+辽宁卫视,https://itv.lat/live?token=240411&id=lnws
+河北卫视,https://itv.lat/live?token=240411&id=hbws
+山东卫视,https://itv.lat/live?token=240411&id=sdws
+安徽卫视,https://itv.lat/live?token=240411&id=ahws
+河南卫视,https://itv.lat/live?token=240411&id=hnws
+湖北卫视,https://itv.lat/live?token=240411&id=hubws
+湖南卫视,https://itv.lat/live?token=240411&id=hunws
+江西卫视,https://itv.lat/live?token=240411&id=jxws
+江苏卫视,https://itv.lat/live?token=240411&id=jsws
+浙江卫视,https://itv.lat/live?token=240411&id=zjws
+东南卫视,https://itv.lat/live?token=240411&id=dnws
+广东卫视,https://itv.lat/live?token=240411&id=gdws
+深圳卫视,https://itv.lat/live?token=240411&id=szws
+广西卫视,https://itv.lat/live?token=240411&id=gxws
+贵州卫视,https://itv.lat/live?token=240411&id=gzws
+四川卫视,https://itv.lat/live?token=240411&id=scws
+新疆卫视,https://itv.lat/live?token=240411&id=xjws
+海南卫视,https://itv.lat/live?token=240411&id=hinws
+
