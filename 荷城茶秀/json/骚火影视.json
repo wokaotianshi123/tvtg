@@ -6,7 +6,7 @@
     
     "主页url":"https://saohuo.vip/",
     
-    "简介":"【荷城茶秀】提醒您请勿相信影片中的广告，以免上当受骗！欢迎加入QQ交流群：869277279，公众号：日后魔改，获取更多影视资源。+<p class=\"p_txt show_part\"&&</p>",
+    "简介":"【荷城茶秀】提醒您请勿相信影片中的广告，以免上当受骗！+<p class=\"p_txt show_part\"&&</p>",
     
     "导演":"</h1><p>* / 导演：&& /",
     
@@ -26,6 +26,16 @@
     
     "线路标题":"🌸荷城茶秀接口🌸+>&&<[替换:1号线路>>骚火专线#2号线路>>骚火备用]",
     
-    "分类url":"https://saohuo.vip/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId};;ak",
+    "跳转播放链接":"<iframe*src=\"&&\"",
+    
+    "二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+    
+    "三次跳转播放链接":"\"url\"*\"&&\"",
+    
+    "嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4",
+    
+    "分类url":"https://saohuo.vip/list/{cateId}-{catePg}.html[https://saohuo.vip/list/{cateId}.html];;kdvr1au0",
+
+    //"分类url":"https://saohuo.vip/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId};;akd",
     
     "分类":"电影$1#电视剧$2#韩剧$22#美剧$22#综艺$3#动漫$4"}
