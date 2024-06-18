@@ -126,7 +126,7 @@
 						"port": 443,
 						"users": [
 							{
-								"id": "TROJANID",
+								"id": "TROJANPASSWROD",
 								"encryption": "none",
 								"level":0
 							}
@@ -151,7 +151,7 @@
 			"tag":"trojancf"
 		},
 		{
-			"protocol": "vless",
+			"protocol": "vmess",
 			"settings": {
 				"vnext": [
 					{
@@ -159,7 +159,7 @@
 						"port": 443,
 						"users": [
 							{
-								"id": "VLESSID",
+								"id": "VMESSID",
 								"encryption": "none",
 								"level":0
 							}
@@ -171,25 +171,24 @@
 				"network": "ws",
 				"security": "tls",
 				"tlsSettings": {
-					"serverName": "VLESSCFWORKERNAME",
+					"serverName": "VMESSCFWORKERNAME",
 					"allowInsecure": true
 				},
 				"wsSettings": {
 					"headers": {
-						"Host": "VLESSCFWORKERNAME"
+						"Host": "VMESSCFWORKERNAME"
 					},
 					"path": "/?ed=2048"
 				}
 			},
-			"tag":"vlesscf"
-		},
-		{
-			"protocol": "vless",
-			"tag":"vmess;vlesscf;warpoverwarp;vlesscfoverwarp",
+			"tag":"vmess",
 			"proxySettings": {
 				"tag": "directwarp",
 				"transportLayer": true
-			},
+			}
+		},
+		{
+			"protocol": "vless",
 			"settings": {
 				"vnext": [
 					{
@@ -218,6 +217,11 @@
 					},
 					"path": "/?ed=2048"
 				}
+			},
+			"tag":"vlesscf;warpoverwarp;vlesscfoverwarp",
+			"proxySettings": {
+				"tag": "directwarp",
+				"transportLayer": true
 			}
 		},
 		{
@@ -226,7 +230,10 @@
 		}
 	]
 	,
-	"inbounds":[ 
+	"inbounds":[ /*73的用途是：完全不需要部署和自建，只要开俩warp账号就可以访问所有海外资源，但速度慢。
+71的用途是：看wogg，看youtube以及所有不限制中国ip但被gfw屏蔽的网站
+72的用途是：自建或部署cfvless，不经过warp直连过去，用于高速访问被屏资源且不会被当作中国IP
+74的用途是：cfvless裸奔不稳定的情况下底层讨一个warp提高稳定性，但速度降低，用于稳定访问被屏资源且不会被当作中国IP*/
 		{
 			"listen": "0.0.0.0",
 			"port": 10070,
@@ -385,28 +392,28 @@
 			{
 				"type": "field",
 				"inboundTag": [
-					"http;socks5"
+					"http;https;socks4;socks5"
 				],
 				"outboundTag": "directwarp"
 			},
 			{
 				"type": "field",
 				"inboundTag": [
-					"http;socks5"
+					"http;https;socks4;socks5"
 				],
 				"outboundTag": "shadowsocks"
 			},
 			{
 				"type": "field",
 				"inboundTag": [
-					"http;socks5"
+					"http;https;socks4;socks5"
 				],
-				"outboundTag": "trojan"
+				"outboundTag": "trojancf"
 			},
 			{
 				"type": "field",
 				"inboundTag": [
-					"http;socks5"
+					"http;https;socks4;socks5"
 				],
 				"outboundTag": "vmess"
 			},
@@ -420,7 +427,7 @@
 			{
 				"type": "field",
 				"inboundTag": [
-					"socks5;http"
+					"http;https;socks4;socks5"
 				],
 				"outboundTag": "vlesscf"
 			},
