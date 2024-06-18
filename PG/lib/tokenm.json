@@ -57,6 +57,15 @@
 "wgcf_vless_protocol":"vless",
 "wgcf_vless_network":"ws",
 "wgcf_vless_tls":false,
+"wgcf_trojan_password": "2ab41ee4-e853-42d5-93f6-a6be363b8da4",
+"wgcf_trojan_optname": "www.dtku44.xyz:22335",
+"wgcf_trojan_worker": "www.dtku44.xyz",
+"wgcf_trojan_path": "tcp",
+"wgcf_trojan_protocol": "tls",
+"wgcf_trojan_network": "ws",
+"wgcf_trojan_tls_encryption":"chrome",
+"wgcf_trojan_tls_Protocol_Parameters": "chrome",
+"wgcf_trojan_tls": true,
 "libxl_url":"./libxl_thunder_sdk.so",
 "youtube_proxy":""
 }
