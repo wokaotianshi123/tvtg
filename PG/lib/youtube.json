@@ -10,8 +10,20 @@
 			"type_name":"自媒體"
 		},
 		{
-			"type_id":"动画片",
-			"type_name":"动画片"
+			"type_id":"HDR",
+			"type_name":"HDR"
+		},
+		{
+			"type_id":"神级现场",
+			"type_name":"音樂"
+		},
+		{
+			"type_id":"綜藝",
+			"type_name":"綜藝"
+		},
+		{
+			"type_id":"紀錄片",
+			"type_name":"紀錄片"
 		},
 		{
 			"type_id":"YouTube 新聞 Live",
@@ -30,18 +42,6 @@
 			"type_name":"電影"
 		},
 		{
-			"type_id":"綜藝",
-			"type_name":"綜藝"
-		},
-		{
-			"type_id":"紀錄片",
-			"type_name":"紀錄片"
-		},
-		{
-			"type_id":"音樂",
-			"type_name":"音樂"
-		},
-		{
 			"type_id":"體育",
 			"type_name":"體育"
 		},
@@ -58,10 +58,6 @@
 			"type_name":"4K"
 		},
 		{
-			"type_id":"HDR",
-			"type_name":"HDR"
-		},
-		{
 			"type_id":"宇宙",
 			"type_name":"科普知識"
 		},
@@ -76,6 +72,10 @@
 		{
 			"type_id":"神秘",
 			"type_name":"神秘"
+		},
+		{
+			"type_id":"动画片",
+			"type_name":"动画片"
 		}
 	],
 	"filters":{
@@ -832,7 +832,7 @@
 				]
 			}
 		],
-		"音樂":[
+		"神级现场":[
 			{
 				"key":"time",
 				"name":"時間",
