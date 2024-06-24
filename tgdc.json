@@ -373,8 +373,13 @@
 	},
 	{
 		"url": "https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wokaotianshi123/tvtg/main/hipy/index.json",
-		"name": "🌺hipy"
+		"name": "🌺hipy非加密"
 	},
+	{
+		"url": "https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wokaotianshi123/hipytestbox/main/index.json",
+		"name": "🌺hipy小刘版"
+	},
+	
 	{
 		"url": "https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wokaotianshi123/wokaotianshi123.github.io/main/pglblb/0618.txt",
 		"name": "自建"
