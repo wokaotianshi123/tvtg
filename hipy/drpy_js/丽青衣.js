@@ -1,1 +1,12 @@
-h36A5I5KdeB29zb3iwNWV91577DQD/J7PUK8Rq6ZbXdV04HgIOW43AqWBYP3FQZ61gX8X8hMEegeq3iML9qf6FndwUoc4y/NixHt9FQopvB9rmeL57PUnmSghrFYMPcUAHJHkmWmqKhnaRRPLPiSyiMyLJS8VOwj2aFwCuMgRl3qDN9Hb5ot2heQfSZfePkf23fvP6+hHcQE6Rn56s5qAGIrGWlACwwCaP+pJFJuVcd6NYriDuoqcam+1lkSYLcm2UQL219X6nd+2N1elqSEe2uJcBGLI8u468+qtTCgHQhSVFTxTjpERothrnuie1NUpMCn33sVd1SDDzyZIJF0JkqwbfAGXbN0B6tfk0DFPK5lGp+y2zpn3DhXH/ag6PMDYmi8k41WycAf/SO3ListgDpDo5GqkSfllYu9k1UH//qE7fUMw+Ye9Vco4yOLEmLWe6LDeB12MvEktFjYMJiDw3Vq4KM8cP9ReeSnBUJwQvMGsrPSmwUdN+7a6wub3gQ9038mhKdMrMkp8r4qXC7fvgXoRJbgSRYeLroPubJI/nlKMxfyr4wV+7Suq0LUxKDI64MYmMGXbpIKKThWUS5iY8w9WPQSZmmJSPhoW3uOqTHmrz/tUBC09Rb8nhf63N9Epq3VEgl+rYg6s/+4km54/MFOhCIX+AniM5mH/rOvougDrzzPPqG/JLwewzuofhuT
+var rule = {
+    模板: 'mx',
+    title: '丽青衣[自动]',
+    host: 'http://cj.liqinyi.top:666',
+    url: '/index.php/vod/show/id/fyclass/page/fypage.html',
+    class_parse: '',
+    class_name: '电影&剧集&综艺&动漫&短剧',
+    class_url: '1&2&3&4&5',
+    //class_parse: '.grid-items&&li:lt(6);a&&Text;a&&href;.*/(.*?).html',
+    searchUrl: '/index.php/vod/search/page/fypage/wd/**.html',
+   // 搜索: '.module-items .module-search-item;h3&&a&&Text;img&&data-src;.video-serial&&Text;h3&&a&&href',
+}
