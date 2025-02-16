@@ -1,0 +1,9 @@
+{
+  "storeHouse":   [
+    
+  {
+    "sourceName": "安卓哥开发1号仓",
+    "sourceUrl": "https://short.tianshideyou.eu.org/tgdc"
+  }
+  ]
+}
