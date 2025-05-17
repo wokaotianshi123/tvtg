@@ -394,6 +394,6 @@
 	},
 		{
 		"url": "clan://localhost/tvboxqq/纯采集/api.json",
-		"name": "纯采集"
+		"name": "纯采集，先在自建线路里更新本地包"
 	}
 ]}
