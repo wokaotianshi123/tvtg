@@ -391,5 +391,9 @@
 	{
 		"url": "https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/wokaotianshi123/wokaotianshi123.github.io/main/pglblb/0618.txt",
 		"name": "自建"
+	},
+		{
+		"url": "clan://localhost/tvboxqq/纯采集/api.json",
+		"name": "纯采集"
 	}
 ]}
