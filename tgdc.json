@@ -395,5 +395,28 @@
 		{
 		"url": "clan://localhost/tvboxqq/纯采集/api.json",
 		"name": "纯采集，先在自建线路里更新本地包"
-	}
+	},
+	{ "url": "clan://localhost/tvboxqq/小米/api.json", "name": "小米（已本地）" },
+
+{ "url": "clan://localhost/tvboxqq/肥猫/api.json", "name": "肥猫（已本地）" },
+
+{ "url": "clan://localhost/tvboxqq/王二小/api.json", "name": "王二小（已本地）" },
+
+{ "url": "clan://localhost/tvboxqq/潇洒/api.json", "name": "潇洒（已本地）" },
+
+{ "url": "clan://localhost/tvboxqq/摸鱼儿/api.json", "name": "摸鱼儿（已本地）" },
+
+{ "url": "clan://localhost/tvboxqq/小虎斑/api.json", "name": "小虎斑（已本地）" },
+
+{ "url": "clan://localhost/tvboxqq/欧歌/api.json", "name": "欧歌（已本地）" },
+
+{ "url": "clan://localhost/tvboxqq/天微/api.json", "name": "天微（已本地）" },
+
+{ "url": "clan://localhost/tvboxqq/南风/api.json", "name": "南风（已本地）" },
+
+{ "url": "clan://localhost/tvboxqq/香雅情/api.json", "name": "香雅情（已本地）" },
+
+{ "url": "clan://localhost/tvboxqq/少儿频道/api.json", "name": "少儿频道（已本地）" },
+
+{ "url": "clan://localhost/tvboxqq/戏曲音乐/api.json", "name": "戏曲音乐（已本地）" }
 ]}
