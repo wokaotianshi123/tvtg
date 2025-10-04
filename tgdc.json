@@ -89,6 +89,10 @@
 		"url": "clan://localhost/tvboxqq/纯采集/api.json",
 		"name": "纯采集，先在自建线路里更新本地包"
 	},
+			{
+		"url": "clan://localhost/tvboxqq/纯采集/cili/api.json",
+		"name": "磁力，先在自建线路里更新本地包"
+	},
 	{ "url": "clan://localhost/tvboxqq/小米/api.json", "name": "小米（已本地）" },
 
 { "url": "clan://localhost/tvboxqq/肥猫/api.json", "name": "肥猫（已本地）" },
@@ -111,3 +115,4 @@
 
 { "url": "clan://localhost/tvboxqq/戏曲音乐/api.json", "name": "戏曲音乐（已本地）" }
 ]}
+
